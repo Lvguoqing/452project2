@@ -114,6 +114,7 @@ footer {
 
 /* Add a style to the content on the right */  
 .right-content {  
+  margin-left：10；
   float: right; /* Float the content to the right */  
   width: 50%; /* Occupies 50% of the width of the container */  
   padding: 20px; /* Add some padding */  
